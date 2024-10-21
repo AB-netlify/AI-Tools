@@ -13,10 +13,12 @@ A curated list of artificial intelligence (AI) tools.
 - Writesonic - writesonic.com
 - ChatGPT - chat.openai.com
 - Stable Diffusion - lnkd.in/gaRJqgbH
+- Gravitywrite - gravitywrite.com
 
 ## Writing
 
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is the world's most advanced AI text generation tool.
+- [Gravitywrite](https://gravitywrite.com/) - AI content creator for writing blogs, marketing copies and more.
 - [CopyAI](https://www.copy.ai/) - An Al-powered content generator for all your marketing needs.
 - [Jasper](https://www.jasper.ai/) - Instantly create content for your blog, social media, website, and more.
 - [QuillBot](https://quillbot.com/) - QuillBot is a paraphrasing and summarizing tool.
